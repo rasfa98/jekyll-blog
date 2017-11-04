@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is **Rasmus** and I'm 18 years old and studying *Web Programing* at *Linnaeus University*.
+My main hobbies are programing (of course), playing guitar and running. I moved to Kalmar for my studies
+but I'm originaly from Blekinge, a place located in the south of Sweden.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+When I'm finished with my education I want to work with different types of programing, either for a company or
+as a freelance. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here comes a list of the different programing languages I have tried/worked with:
 
-
-[jekyll-organization]: https://github.com/jekyll
+* C++
+* C#
+* JavaScript
+* Python
