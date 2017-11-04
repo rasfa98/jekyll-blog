@@ -1,7 +1,6 @@
 @charset "utf-8";
 
 // Define defaults for each variable.
-
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
@@ -11,8 +10,9 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     30px !default;
 
 $text-color:       rgb(255, 255, 255) !default;
-$background-color: rgb(22, 22, 22) !default;
+$background-color: rgb(48, 48, 48) !default;
 $brand-color:      #be1f0a !default;
+$secondary-color:  black;
 
 $grey-color:       #bbb8b8 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -24,13 +24,6 @@ $content-width:    800px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
-// }
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
@@ -44,6 +37,7 @@ $on-laptop:        800px !default;
 // Import partials.
 @import
   "minima/base",
-  "minima/layout",
+  "layout",
   "minima/syntax-highlighting"
 ;
+
