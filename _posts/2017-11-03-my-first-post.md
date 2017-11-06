@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Post!"
-date:   2017-11-03 04:03:09 -0500
+date:   2017-11-03 04:03:09 +01
 categories: posts
 ---
 

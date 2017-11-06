@@ -23,6 +23,10 @@
     &:visited {
       color: $brand-color;
     }
+
+    &:hover {
+      text-decoration: none;
+    }
   }
   
   .site-nav {
