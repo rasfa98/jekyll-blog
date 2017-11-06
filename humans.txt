@@ -1,0 +1,12 @@
+@charset="UTF-8";
+
+/* TEAM */
+Your title: Rasmus Falk.
+Twitter: rasfa98.
+Location: Kalmar, Sweden.
+
+/* SITE */
+Last update: 2017/12/10
+Standards: HTML5, CSS3
+Components: Jekyll, Sass
+Software: Visual Studio Code
