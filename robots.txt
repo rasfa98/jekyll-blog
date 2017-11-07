@@ -3,5 +3,3 @@ Disallow: /_sass/
 Disallow: /.sass-cache/
 Disallow: /_includes/
 Disallow: 404.html
-Disallow: Gemfile
-Disallow: Gemfile.lock

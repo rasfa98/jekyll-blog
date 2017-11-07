@@ -12,7 +12,7 @@ $spacing-unit:     30px !default;
 $text-color:       rgb(255, 255, 255) !default;
 $background-color: rgb(29, 29, 29) !default;
 $brand-color:      #be1f0a !default;
-$secondary-color:  black;
+$secondary-color:  black !default;
 
 $grey-color:       #bbb8b8 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
