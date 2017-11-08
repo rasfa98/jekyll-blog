@@ -6,4 +6,4 @@ categories: posts
 ---
 
 This is my first blog post for this new site! This is a website created using a static site generator called Jekyll
-and a CSS preprocessor called Sass.
+and a CSS preprocessor called Sass. On this website I will publish assignments in future courses but also my own projects. 

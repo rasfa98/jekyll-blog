@@ -104,6 +104,29 @@
       }
     }
   }
+
+  /**
+   * Contact
+   */
+   #contact {
+     list-style: none;
+
+     ul {
+       margin: 0px;
+       padding: 0px;
+     }
+
+     li::before {
+       content: "- ";
+       color: $brand-color;
+     }
+
+     li {
+       padding: 10px;
+       border: 1px solid $grey-color;
+       background-color: $secondary-color;
+     }
+   }
   
   /**
    * Site footer
