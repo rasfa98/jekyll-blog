@@ -106,15 +106,12 @@
   }
 
   /**
-   * Contact
+   * Contact, About
    */
-   #contact {
+   #contact , #about {
      list-style: none;
-
-     ul {
-       margin: 0px;
-       padding: 0px;
-     }
+     margin: 0px;
+     padding: 0px;
 
      li::before {
        content: "- ";

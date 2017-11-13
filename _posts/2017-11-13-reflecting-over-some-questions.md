@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reflecting Over Some Questions"
-date:   2017-11-06 03:04:09 +01
+date:   2017-11-13 03:04:09 +01
 categories: posts
 ---
 
