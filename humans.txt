@@ -5,8 +5,12 @@ Your title: Rasmus Falk.
 Twitter: rasfa98.
 Location: Kalmar, Sweden.
 
+
+[...]
+
+
 /* SITE */
-Last update: 2017/12/10
+Last update: 2017/11/13
 Standards: HTML5, CSS3
 Components: Jekyll, Sass
-Software: Visual Studio Code
+Software: Visual Studio Code, Docker
